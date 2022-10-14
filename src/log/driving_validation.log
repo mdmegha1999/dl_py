@@ -1,0 +1,849 @@
+2022-10-12 15:43:45,001 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:43:45,003 - driving_validation - INFO - request : {'user_dl_number': 'BR0120120190225', 'dob_user': '28-01-1993'}
+2022-10-12 15:43:45,008 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F30239B180>)
+2022-10-12 15:43:49,830 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:43:49,831 - driving_validation - INFO - request : {'user_dl_number': 'BR0120120190225', 'dob_user': '28-01-1993'}
+2022-10-12 15:43:49,833 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F3029CEEC0>)
+2022-10-12 15:43:57,034 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:43:57,037 - driving_validation - INFO - request : {'user_dl_number': 'BR0120120190225', 'dob_user': '28-01-1993'}
+2022-10-12 15:43:57,039 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A16880>)
+2022-10-12 15:48:33,082 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:48:33,085 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 15:48:33,087 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F37B941D80>)
+2022-10-12 15:48:34,410 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:48:34,412 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 15:48:34,414 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A2DB80>)
+2022-10-12 15:48:35,410 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:48:35,412 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 15:48:35,415 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A17F80>)
+2022-10-12 15:48:37,411 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:48:37,413 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 15:48:37,416 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A2EAC0>)
+2022-10-12 15:48:38,417 - driving_validation - INFO - hit request dl validation
+2022-10-12 15:48:38,419 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 15:48:38,421 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302CD4B00>)
+2022-10-12 16:02:09,995 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:02:10,000 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:02:10,003 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A2DA40>)
+2022-10-12 16:08:28,578 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:08:28,583 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': 1234}
+2022-10-12 16:08:28,588 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302A2E780>)
+2022-10-12 16:10:07,960 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:10:07,967 - driving_validation - INFO - request : {'txnid': 1234, 'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:10:07,969 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302CD7880>)
+2022-10-12 16:10:18,604 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:10:18,608 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:10:18,611 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001F302CCC1C0>)
+2022-10-12 16:14:05,897 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:14:05,898 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:14:05,899 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000002332248BCC0>)
+2022-10-12 16:14:07,264 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:14:07,266 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:14:07,268 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x0000023322CBDA00>)
+2022-10-12 16:15:20,243 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:15:20,246 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:15:20,251 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001C7F5328900>)
+2022-10-12 16:15:20,253 - driving_validation - ERROR - Global Error : cannot unpack non-iterable bool object
+2022-10-12 16:15:36,705 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:15:36,707 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': 1234}
+2022-10-12 16:15:36,710 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001C7F5932140>)
+2022-10-12 16:15:36,711 - driving_validation - ERROR - Global Error : cannot unpack non-iterable bool object
+2022-10-12 16:15:45,040 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:15:45,042 - driving_validation - INFO - request : {'dlno': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': 'asdf'}
+2022-10-12 16:15:45,046 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('dl_no'), <traceback object at 0x000001C7F5932500>)
+2022-10-12 16:15:45,048 - driving_validation - ERROR - Global Error : cannot unpack non-iterable bool object
+2022-10-12 16:16:07,082 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:16:07,084 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:16:07,085 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x000001C7ECEBE0C0>)
+2022-10-12 16:16:07,086 - driving_validation - ERROR - Global Error : cannot unpack non-iterable bool object
+2022-10-12 16:17:35,827 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:17:35,830 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:17:35,831 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000221F48DD140>)
+2022-10-12 16:17:58,826 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:17:58,830 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:17:58,832 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000144A3BB8880>)
+2022-10-12 16:18:00,294 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:18:00,298 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999'}
+2022-10-12 16:18:00,300 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000144A4704B00>)
+2022-10-12 16:20:28,887 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:20:28,888 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': 1234}
+2022-10-12 16:20:28,899 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 16:20:42,978 - driving_validation - INFO - 1234 - opening website
+2022-10-12 16:20:43,131 - driving_validation - ERROR - global error parivahan : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000144A3DFCF40>)
+2022-10-12 16:20:55,926 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:20:55,930 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': 'asdf'}
+2022-10-12 16:20:55,933 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:21:00,177 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:21:00,334 - driving_validation - ERROR - global error parivahan : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000144A4731600>)
+2022-10-12 16:23:28,141 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:23:28,148 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '24-12-1999', 'txnid': 'asdf'}
+2022-10-12 16:23:28,160 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:23:33,105 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:23:33,230 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000178ABC86200>)
+2022-10-12 16:23:45,325 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:23:45,329 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:23:45,331 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:23:49,694 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:23:49,818 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000178ABC86580>)
+2022-10-12 16:23:54,645 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:23:54,652 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994'}
+2022-10-12 16:23:54,654 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000178A4BAD700>)
+2022-10-12 16:23:58,056 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:23:58,059 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:23:58,062 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:24:02,413 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:24:02,535 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000178ABF31F40>)
+2022-10-12 16:25:40,564 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:25:40,567 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:25:40,577 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:25:45,498 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:25:45,623 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x000002420F5E1D00>)
+2022-10-12 16:25:53,626 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:25:53,628 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:25:53,630 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:25:58,467 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:25:58,586 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x000002421660BDC0>)
+2022-10-12 16:28:08,938 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:28:08,941 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:28:08,943 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:28:13,617 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:28:13,741 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x000002420EF2E580>)
+2022-10-12 16:41:28,982 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:41:28,984 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:41:28,988 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:41:40,585 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:41:40,704 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000296305BCA80>)
+2022-10-12 16:58:43,376 - driving_validation - INFO - hit request dl validation
+2022-10-12 16:58:43,378 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': 'asdf'}
+2022-10-12 16:58:43,380 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 16:58:58,766 - driving_validation - INFO - asdf - opening website
+2022-10-12 16:58:58,893 - driving_validation - ERROR - global error andhra pradesh : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000296303F8200>)
+2022-10-12 17:00:48,224 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:00:48,226 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:00:48,227 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:00:52,842 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:00:52,990 - driving_validation - ERROR - Global Error  MP: (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x00000296305BE200>)
+2022-10-12 17:17:54,389 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:17:54,392 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:17:54,404 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:18:06,188 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:18:06,361 - driving_validation - ERROR - Global Error  MP: (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x0000023FD8B3B940>)
+2022-10-12 17:36:26,017 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:36:26,020 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:36:26,028 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:36:37,308 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:36:37,488 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDrivingLicense"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002323F227E80>)
+2022-10-12 17:48:00,757 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:48:00,761 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:48:00,773 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:48:12,644 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:48:12,845 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDrivingLicense"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000013039EB0340>)
+2022-10-12 17:51:12,823 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:51:12,826 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:51:12,833 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:51:17,428 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:51:17,578 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDrivingLicense"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002027A91AAC0>)
+2022-10-12 17:57:36,470 - driving_validation - INFO - hit request dl validation
+2022-10-12 17:57:36,473 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 17:57:36,481 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 17:57:49,132 - driving_validation - INFO - asdf - opening website
+2022-10-12 17:57:49,323 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDrivingLicense"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002284AA83EC0>)
+2022-10-12 18:16:05,861 - driving_validation - INFO - hit request dl validation
+2022-10-12 18:16:05,863 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 18:16:05,872 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 18:16:18,090 - driving_validation - INFO - asdf - opening website
+2022-10-12 18:16:18,252 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDrivingLicense"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001EFC0B2F580>)
+2022-10-12 18:20:18,549 - driving_validation - INFO - hit request dl validation
+2022-10-12 18:20:18,558 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 18:20:18,568 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 18:20:23,407 - driving_validation - INFO - asdf - opening website
+2022-10-12 18:20:23,664 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"tag name","selector":"//*[@id="ctl00_ContentPlaceHolder1_txtDOB"]"}\n  (Session info: headless chrome=105.0.5195.127)', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001F79260CAC0>)
+2022-10-12 18:22:18,775 - driving_validation - INFO - hit request dl validation
+2022-10-12 18:22:18,777 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 18:22:18,786 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 18:22:23,569 - driving_validation - INFO - asdf - opening website
+2022-10-12 18:22:32,550 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001FD899ED700>)
+2022-10-12 18:28:42,662 - driving_validation - INFO - hit request dl validation
+2022-10-12 18:28:42,672 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 18:28:42,683 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 18:28:46,865 - driving_validation - INFO - asdf - opening website
+2022-10-12 18:28:55,624 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000023C5353ECC0>)
+2022-10-12 19:10:32,220 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:10:32,224 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 19:10:32,243 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:10:44,103 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:10:52,891 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001E16205F980>)
+2022-10-12 19:14:57,522 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:14:57,529 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 19:14:57,542 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:15:01,851 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:15:10,729 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002A5D757FA40>)
+2022-10-12 19:16:05,213 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:16:05,218 - driving_validation - INFO - request : {'dl_no': 'MP11N20210044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 19:16:05,235 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:16:09,748 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:16:18,641 - driving_validation - ERROR - Global Error  MP: (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001D95EE21500>)
+2022-10-12 19:17:11,507 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:17:11,516 - driving_validation - INFO - request : {'dl_no': 'MP11N-2021-0044205', 'dob': '01-02-1991', 'txnid': 'asdf'}
+2022-10-12 19:17:11,520 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:17:16,255 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:17:22,399 - driving_validation - INFO - asdf => MP success transaction
+2022-10-12 19:18:58,166 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:18:58,172 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28/01/1993', 'txnid': 'asdf'}
+2022-10-12 19:18:58,176 - driving_validation - ERROR - validating request params : (<class 'ValueError'>, ValueError("time data '28/01/1993' does not match format '%d-%M-%Y'"), <traceback object at 0x000001D95EE21300>)
+2022-10-12 19:19:01,253 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:19:01,257 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28/01/1993', 'txnid': 'asdf'}
+2022-10-12 19:19:01,262 - driving_validation - ERROR - validating request params : (<class 'ValueError'>, ValueError("time data '28/01/1993' does not match format '%d-%M-%Y'"), <traceback object at 0x000001D95EE84080>)
+2022-10-12 19:19:14,056 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:19:14,060 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': 'asdf'}
+2022-10-12 19:19:14,068 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:19:18,171 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:19:18,589 - driving_validation - INFO - asdf solving captcha
+2022-10-12 19:19:19,264 - driving_validation - INFO - asdf 0 captcha result : 2dr4y
+2022-10-12 19:19:20,611 - driving_validation - INFO - asdf No. of data tables found : 6
+2022-10-12 19:19:21,377 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000001D95EB83900>)
+2022-10-12 19:19:31,440 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:19:31,445 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': 'asdf'}
+2022-10-12 19:19:31,451 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:19:35,783 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:19:36,266 - driving_validation - INFO - asdf solving captcha
+2022-10-12 19:19:36,905 - driving_validation - INFO - asdf 0 captcha result : y47cg
+2022-10-12 19:19:38,879 - driving_validation - INFO - asdf No. of data tables found : 6
+2022-10-12 19:19:39,648 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000001D95EE89B40>)
+2022-10-12 19:19:51,308 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:19:51,313 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': 'asdf'}
+2022-10-12 19:19:51,319 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:19:55,246 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:19:55,763 - driving_validation - INFO - asdf solving captcha
+2022-10-12 19:19:56,387 - driving_validation - INFO - asdf 0 captcha result : yeg37
+2022-10-12 19:20:07,249 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001D95EEAB700>)
+2022-10-12 19:20:11,913 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:20:11,919 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': 'asdf'}
+2022-10-12 19:20:11,924 - driving_validation - INFO - asdf - intializing chrome
+2022-10-12 19:20:16,692 - driving_validation - INFO - asdf - opening website
+2022-10-12 19:20:17,147 - driving_validation - INFO - asdf solving captcha
+2022-10-12 19:20:17,746 - driving_validation - INFO - asdf 0 captcha result : n7aer
+2022-10-12 19:20:19,208 - driving_validation - INFO - asdf No. of data tables found : 6
+2022-10-12 19:20:20,014 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000001D95EE87040>)
+2022-10-12 19:23:05,577 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:23:05,580 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': '1234'}
+2022-10-12 19:23:05,582 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:23:09,535 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:23:09,938 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:23:10,526 - driving_validation - INFO - 1234 0 captcha result : g72b3
+2022-10-12 19:23:11,928 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:23:12,732 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000001D95EE32EC0>)
+2022-10-12 19:25:53,427 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:25:53,430 - driving_validation - INFO - request : {'dl_no': 'BR0120120190225', 'dob': '28-01-1993', 'txnid': '1234'}
+2022-10-12 19:25:53,435 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:25:57,336 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:25:57,747 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:25:58,358 - driving_validation - INFO - 1234 0 captcha result : 8nwwy
+2022-10-12 19:25:59,702 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:26:00,428 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893CE480>)
+2022-10-12 19:28:16,507 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:28:16,510 - driving_validation - INFO - request : {'dl_no': 'BR0920160070587', 'dob': '07-08-1998', 'txnid': '1234'}
+2022-10-12 19:28:16,511 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:28:22,540 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:28:22,955 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:28:23,582 - driving_validation - INFO - 1234 0 captcha result : amymm
+2022-10-12 19:28:24,992 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:28:25,840 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893CF900>)
+2022-10-12 19:29:50,543 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:29:50,546 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:29:52,260 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:29:52,262 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:30:07,111 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:30:07,114 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:30:08,931 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:30:08,934 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:30:10,221 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:30:10,223 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:32:03,970 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:03,973 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:05,884 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:05,886 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:06,915 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:06,916 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:07,923 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:07,925 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:21,931 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:21,933 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:23,287 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:23,288 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:32:23,738 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:32:23,738 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:33:00,128 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:33:00,133 - driving_validation - INFO - request : {'dl_no': '8108572011', 'dob': '21-12-1988', 'txnid': '1234'}
+2022-10-12 19:33:53,715 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:33:53,721 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:33:55,436 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:33:55,439 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:33:56,710 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:33:56,713 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:33:59,625 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:33:59,627 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:34:02,406 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:34:02,409 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:34:04,870 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:34:04,873 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:34:54,200 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:34:54,203 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:34:59,225 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:34:59,230 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997', 'txnid': '1234'}
+2022-10-12 19:39:10,311 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:39:10,315 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997'}
+2022-10-12 19:39:10,322 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000182893F4E40>)
+2022-10-12 19:39:11,597 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:39:11,599 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997'}
+2022-10-12 19:39:11,603 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x00000182890DA600>)
+2022-10-12 19:39:13,307 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:39:13,311 - driving_validation - INFO - request : {'dl_no': '4027252016', 'dob': '25-04-1997'}
+2022-10-12 19:39:13,318 - driving_validation - ERROR - validating request params : (<class 'KeyError'>, KeyError('txnid'), <traceback object at 0x0000018289383D40>)
+2022-10-12 19:40:54,327 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:40:54,332 - driving_validation - INFO - request : {'dl_no': 'MP11N-2021-0044205', 'dob': '01-02-1991', 'txnid': '1234'}
+2022-10-12 19:40:54,336 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:40:57,570 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:41:02,829 - driving_validation - INFO - 1234 => MP success transaction
+2022-10-12 19:42:44,272 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:42:44,275 - driving_validation - INFO - request : {'dl_no': 'TN9920190000999', 'dob': '13-12-1977', 'txnid': '1234'}
+2022-10-12 19:42:44,279 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:42:47,356 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:42:47,704 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:42:47,935 - driving_validation - INFO - 1234 0 captcha result : kd7e5
+2022-10-12 19:42:49,174 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 19:42:59,884 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 19:44:15,217 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:44:15,221 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 19:44:15,226 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:44:18,458 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:44:18,781 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:44:19,006 - driving_validation - INFO - 1234 0 captcha result : ha6cf
+2022-10-12 19:44:30,159 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018288EB0F40>)
+2022-10-12 19:44:36,576 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:44:36,578 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 19:44:36,583 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:44:39,759 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:44:40,131 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:44:40,359 - driving_validation - INFO - 1234 0 captcha result : hhcBe
+2022-10-12 19:44:51,550 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x00000182890718C0>)
+2022-10-12 19:44:55,803 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:44:55,805 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 19:44:55,811 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:44:59,039 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:44:59,388 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:44:59,604 - driving_validation - INFO - 1234 0 captcha result : y8hb4
+2022-10-12 19:45:00,824 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:45:01,290 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893F5880>)
+2022-10-12 19:45:11,505 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:45:11,508 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 19:45:11,513 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:45:15,051 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:45:15,356 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:45:15,456 - driving_validation - INFO - 1234 0 captcha result : None
+2022-10-12 19:45:26,438 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018289072FC0>)
+2022-10-12 19:46:27,532 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:46:27,535 - driving_validation - INFO - request : {'dl_no': 'UP4220140002829', 'dob': '02-05-1993', 'txnid': '1234'}
+2022-10-12 19:46:27,541 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:46:32,023 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:46:32,344 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:46:32,558 - driving_validation - INFO - 1234 0 captcha result : mkpy
+2022-10-12 19:46:43,704 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018282DF2D80>)
+2022-10-12 19:46:52,362 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:46:52,365 - driving_validation - INFO - request : {'dl_no': 'UP4220140002829', 'dob': '02-05-1993', 'txnid': '1234'}
+2022-10-12 19:46:52,371 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:46:55,987 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:46:56,353 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:46:56,576 - driving_validation - INFO - 1234 0 captcha result : ar62r
+2022-10-12 19:46:57,783 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 19:47:08,487 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 19:49:22,577 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:49:22,582 - driving_validation - INFO - request : {'dl_no': 'RJ2320160012087', 'dob': '08-11-1990', 'txnid': '1234'}
+2022-10-12 19:49:22,587 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:49:25,657 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:49:25,998 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:49:26,207 - driving_validation - INFO - 1234 0 captcha result : p4heb
+2022-10-12 19:49:27,435 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:49:27,884 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018289374FC0>)
+2022-10-12 19:49:33,928 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:49:33,932 - driving_validation - INFO - request : {'dl_no': 'RJ2320160012087', 'dob': '08-11-1990', 'txnid': '1234'}
+2022-10-12 19:49:33,935 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:49:37,105 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:49:37,577 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:49:37,801 - driving_validation - INFO - 1234 0 captcha result : dnd2b
+2022-10-12 19:49:39,022 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:49:39,480 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018289072B80>)
+2022-10-12 19:49:47,046 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:49:47,049 - driving_validation - INFO - request : {'dl_no': 'RJ2320160012087', 'dob': '08-11-1990', 'txnid': '1234'}
+2022-10-12 19:49:47,053 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:49:50,168 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:49:50,474 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:49:50,685 - driving_validation - INFO - 1234 0 captcha result : fbn6p
+2022-10-12 19:49:51,910 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 19:49:52,346 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893A17C0>)
+2022-10-12 19:51:25,230 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:51:25,234 - driving_validation - INFO - request : {'dl_no': 'GJ1200187000', 'dob': '15-09-1970', 'txnid': '1234'}
+2022-10-12 19:51:25,240 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:51:28,937 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:51:29,251 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:51:29,468 - driving_validation - INFO - 1234 0 captcha result : md25X
+2022-10-12 19:51:40,560 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001828905FF40>)
+2022-10-12 19:51:46,067 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:51:46,070 - driving_validation - INFO - request : {'dl_no': 'GJ1200187000', 'dob': '15-09-1970', 'txnid': '1234'}
+2022-10-12 19:51:46,074 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:51:49,263 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:51:49,575 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:51:49,783 - driving_validation - INFO - 1234 0 captcha result : x4dhe
+2022-10-12 19:51:51,025 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 19:52:01,734 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 19:53:17,824 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:53:17,827 - driving_validation - INFO - request : {'dl_no': 'TS01020180010714', 'dob': '12-04-1984', 'txnid': '1234'}
+2022-10-12 19:53:17,833 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:53:21,173 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:53:21,554 - driving_validation - INFO - 1234 Solving Captcha..
+2022-10-12 19:53:21,758 - driving_validation - INFO - 1234 0 captcha result : 424643
+2022-10-12 19:53:22,892 - driving_validation - INFO - 1234 => TS success transaction
+2022-10-12 19:56:15,419 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:56:15,422 - driving_validation - INFO - request : {'dl_no': 'AS0920190005001', 'dob': '24-12-1999', 'txnid': '1234'}
+2022-10-12 19:56:15,426 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:56:18,423 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:56:18,752 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:56:18,955 - driving_validation - INFO - 1234 0 captcha result : xpyf4
+2022-10-12 19:56:20,211 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 19:56:31,035 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 19:57:23,129 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:57:23,133 - driving_validation - INFO - request : {'dl_no': 'AS2319970024571', 'dob': '31-03-1968', 'txnid': '1234'}
+2022-10-12 19:57:23,140 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:57:26,432 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:57:26,750 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:57:26,955 - driving_validation - INFO - 1234 0 captcha result : fhwkm
+2022-10-12 19:57:28,182 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 19:57:39,064 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 19:58:49,202 - driving_validation - INFO - hit request dl validation
+2022-10-12 19:58:49,204 - driving_validation - INFO - request : {'dl_no': 'AP01520130023788', 'dob': '28-03-1994', 'txnid': '1234'}
+2022-10-12 19:58:49,210 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 19:58:55,353 - driving_validation - INFO - 1234 - opening website
+2022-10-12 19:58:55,697 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 19:58:56,080 - driving_validation - INFO - 1234 0 captcha result : zhEkBd
+2022-10-12 19:58:56,698 - driving_validation - INFO - 2
+2022-10-12 19:58:57,682 - driving_validation - INFO - 1234 ap success transaction
+2022-10-12 20:00:56,609 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:00:56,612 - driving_validation - INFO - request : {'dl_no': 'AP02620210032110', 'dob': '18-07-1995', 'txnid': '1234'}
+2022-10-12 20:00:56,616 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:01:01,361 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:01:01,717 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:01:01,750 - driving_validation - INFO - 1234 0 captcha result : None
+2022-10-12 20:01:03,835 - driving_validation - ERROR - 1234 DETAILS_FETCHING_FAILED : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x00000182893CFBC0>)
+2022-10-12 20:01:14,329 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:01:14,332 - driving_validation - INFO - request : {'dl_no': 'AP02620210032110', 'dob': '18-07-1995', 'txnid': '1234'}
+2022-10-12 20:01:14,337 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:01:18,343 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:01:18,672 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:01:18,862 - driving_validation - INFO - 1234 0 captcha result : WDO4bg
+2022-10-12 20:01:19,635 - driving_validation - INFO - 2
+2022-10-12 20:01:20,500 - driving_validation - INFO - 1234 ap success transaction
+2022-10-12 20:02:46,018 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:02:46,020 - driving_validation - INFO - request : {'dl_no': 'BR0920160070587', 'dob': '07-08-1998', 'txnid': '1234'}
+2022-10-12 20:02:46,027 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:02:49,424 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:02:49,735 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:02:49,947 - driving_validation - INFO - 1234 0 captcha result : ae36p
+2022-10-12 20:02:51,173 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 20:02:51,624 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018288E6B180>)
+2022-10-12 20:02:56,500 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:02:56,503 - driving_validation - INFO - request : {'dl_no': 'BR0920160070587', 'dob': '07-08-1998', 'txnid': '1234'}
+2022-10-12 20:02:56,506 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:02:59,306 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:02:59,616 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:02:59,823 - driving_validation - INFO - 1234 0 captcha result : ec822
+2022-10-12 20:03:01,047 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 20:03:01,523 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018289375240>)
+2022-10-12 20:04:14,578 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:04:14,581 - driving_validation - INFO - request : {'dl_no': 'GJ1300677808', 'dob': '12-04-1988', 'txnid': '1234'}
+2022-10-12 20:04:14,589 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:04:18,610 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:04:18,927 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:04:19,142 - driving_validation - INFO - 1234 0 captcha result : fgefg
+2022-10-12 20:04:19,853 - driving_validation - INFO - 1234 No. of data tables found : 1
+2022-10-12 20:04:19,887 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893CD200>)
+2022-10-12 20:04:24,034 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:04:24,036 - driving_validation - INFO - request : {'dl_no': 'GJ1300677808', 'dob': '12-04-1988', 'txnid': '1234'}
+2022-10-12 20:04:24,039 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:04:26,837 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:04:27,151 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:04:27,351 - driving_validation - INFO - 1234 0 captcha result : 3k84w
+2022-10-12 20:04:28,026 - driving_validation - INFO - 1234 No. of data tables found : 1
+2022-10-12 20:04:28,054 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893A33C0>)
+2022-10-12 20:04:32,320 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:04:32,323 - driving_validation - INFO - request : {'dl_no': 'GJ1300677808', 'dob': '12-04-1988', 'txnid': '1234'}
+2022-10-12 20:04:32,327 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:04:35,291 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:04:35,611 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:04:35,823 - driving_validation - INFO - 1234 0 captcha result : 7bwfy
+2022-10-12 20:04:36,535 - driving_validation - INFO - 1234 No. of data tables found : 1
+2022-10-12 20:04:36,568 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018288A6E380>)
+2022-10-12 20:06:49,480 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:49,484 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:06:51,949 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:51,952 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:06:53,014 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:53,019 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:06:54,925 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:54,927 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:06:58,465 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:58,472 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:06:59,414 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:06:59,417 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:07:00,469 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:07:00,472 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:07:10,757 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:07:10,761 - driving_validation - INFO - request : {'dl_no': 'KR2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:07:10,765 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:07:13,845 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:07:14,135 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:07:14,350 - driving_validation - INFO - 1234 0 captcha result : yyynd
+2022-10-12 20:07:15,074 - driving_validation - INFO - 1234 No. of data tables found : 1
+2022-10-12 20:07:15,108 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893F7E40>)
+2022-10-12 20:07:20,373 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:07:20,381 - driving_validation - INFO - request : {'dl_no': 'KR2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:07:20,382 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:07:23,155 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:07:23,489 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:07:23,713 - driving_validation - INFO - 1234 0 captcha result : exbwv
+2022-10-12 20:07:34,805 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000001828905FC80>)
+2022-10-12 20:07:39,478 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:07:39,480 - driving_validation - INFO - request : {'dl_no': 'KR2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:07:39,485 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:07:42,482 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:07:42,949 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:07:43,148 - driving_validation - INFO - 1234 0 captcha result : feckk
+2022-10-12 20:07:54,207 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x00000182893A22C0>)
+2022-10-12 20:08:00,790 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:08:00,800 - driving_validation - INFO - request : {'dl_no': 'KR2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:08:00,812 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:08:03,799 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:08:04,150 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:08:04,351 - driving_validation - INFO - 1234 0 captcha result : am4fr
+2022-10-12 20:08:05,056 - driving_validation - INFO - 1234 No. of data tables found : 1
+2022-10-12 20:08:05,090 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893FD340>)
+2022-10-12 20:08:14,593 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:08:14,597 - driving_validation - INFO - request : {'dl_no': '2146482015', 'dob': '12-05-1984', 'txnid': '1234'}
+2022-10-12 20:09:57,630 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:09:57,633 - driving_validation - INFO - request : {'dl_no': '511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:09:59,131 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:09:59,133 - driving_validation - INFO - request : {'dl_no': '511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:10:00,279 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:10:00,282 - driving_validation - INFO - request : {'dl_no': '511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:10:01,309 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:10:01,311 - driving_validation - INFO - request : {'dl_no': '511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:10:12,957 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:10:12,960 - driving_validation - INFO - request : {'dl_no': 'KR511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:10:14,179 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:10:14,182 - driving_validation - INFO - request : {'dl_no': 'KR511241993', 'dob': '07-09-1951', 'txnid': '1234'}
+2022-10-12 20:11:06,109 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:11:06,111 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-12 20:11:07,575 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:11:07,579 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-12 20:11:09,059 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:11:09,061 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-12 20:11:09,900 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:11:09,903 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-12 20:12:05,893 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:12:05,895 - driving_validation - INFO - request : {'dl_no': 'UP5720200010380', 'dob': '09-07-1993', 'txnid': '1234'}
+2022-10-12 20:12:05,899 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:12:09,191 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:12:09,509 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:12:09,712 - driving_validation - INFO - 1234 0 captcha result : aw8f7
+2022-10-12 20:12:20,785 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018288EB22C0>)
+2022-10-12 20:12:26,542 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:12:26,547 - driving_validation - INFO - request : {'dl_no': 'UP5720200010380', 'dob': '09-07-1993', 'txnid': '1234'}
+2022-10-12 20:12:26,552 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:12:30,800 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:12:31,283 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:12:31,539 - driving_validation - INFO - 1234 0 captcha result : x64mn
+2022-10-12 20:12:33,284 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 20:12:44,190 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 20:14:00,114 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:14:00,118 - driving_validation - INFO - request : {'dl_no': 'UP6420140003598', 'dob': '01-03-1996', 'txnid': '1234'}
+2022-10-12 20:14:00,122 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:14:03,235 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:14:03,534 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:14:03,769 - driving_validation - INFO - 1234 0 captcha result : wf5eW
+2022-10-12 20:14:14,857 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018289404E40>)
+2022-10-12 20:14:20,853 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:14:20,857 - driving_validation - INFO - request : {'dl_no': 'UP6420140003598', 'dob': '01-03-1996', 'txnid': '1234'}
+2022-10-12 20:14:20,862 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:14:24,252 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:14:24,573 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:14:24,782 - driving_validation - INFO - 1234 0 captcha result : kecaZ
+2022-10-12 20:14:35,887 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x00000182893FE140>)
+2022-10-12 20:14:40,483 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:14:40,488 - driving_validation - INFO - request : {'dl_no': 'UP6420140003598', 'dob': '01-03-1996', 'txnid': '1234'}
+2022-10-12 20:14:40,492 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:14:43,455 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:14:43,771 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:14:43,973 - driving_validation - INFO - 1234 0 captcha result : nqp4c
+2022-10-12 20:14:55,033 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x0117DF13+2219795]', '\tOrdinal0 [0x01112841+1779777]', '\tOrdinal0 [0x0102423D+803389]', '\tOrdinal0 [0x01053025+995365]', '\tOrdinal0 [0x010531EB+995819]', '\tOrdinal0 [0x01080F52+1183570]', '\tOrdinal0 [0x0106E844+1108036]', '\tOrdinal0 [0x0107F192+1175954]', '\tOrdinal0 [0x0106E616+1107478]', '\tOrdinal0 [0x01047F89+950153]', '\tOrdinal0 [0x01048F56+954198]', '\tGetHandleVerifier [0x01472CB2+3040210]', '\tGetHandleVerifier [0x01462BB4+2974420]', '\tGetHandleVerifier [0x01216A0A+565546]', '\tGetHandleVerifier [0x01215680+560544]', '\tOrdinal0 [0x01119A5C+1808988]', '\tOrdinal0 [0x0111E3A8+1827752]', '\tOrdinal0 [0x0111E495+1827989]', '\tOrdinal0 [0x011280A4+1867940]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000018289073DC0>)
+2022-10-12 20:15:51,735 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:15:51,737 - driving_validation - INFO - request : {'dl_no': 'TN9920190000999', 'dob': '13-12-1977', 'txnid': '1234'}
+2022-10-12 20:15:51,743 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:15:54,829 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:15:55,140 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:15:55,346 - driving_validation - INFO - 1234 0 captcha result : gfxrb
+2022-10-12 20:15:56,587 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 20:16:07,360 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 20:16:58,297 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:16:58,299 - driving_validation - INFO - request : {'dl_no': 'TN3020130003891', 'dob': '27-11-1985', 'txnid': '1234'}
+2022-10-12 20:16:58,307 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:17:01,490 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:17:01,796 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:17:01,993 - driving_validation - INFO - 1234 0 captcha result : 8bkmf
+2022-10-12 20:17:03,746 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-12 20:17:14,677 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-12 20:18:08,301 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:18:08,304 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 20:18:08,308 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:18:11,401 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:18:11,690 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:18:11,893 - driving_validation - INFO - 1234 0 captcha result : kna4n
+2022-10-12 20:18:13,114 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 20:18:13,493 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893FCC00>)
+2022-10-12 20:18:18,050 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:18:18,052 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 20:18:18,056 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:18:20,893 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:18:21,210 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:18:21,553 - driving_validation - INFO - 1234 0 captcha result : p7yyg
+2022-10-12 20:18:22,866 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 20:18:23,258 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893CF1C0>)
+2022-10-12 20:18:28,093 - driving_validation - INFO - hit request dl validation
+2022-10-12 20:18:28,096 - driving_validation - INFO - request : {'dl_no': 'OD0520150344574', 'dob': '25-05-1987', 'txnid': '1234'}
+2022-10-12 20:18:28,099 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-12 20:18:31,076 - driving_validation - INFO - 1234 - opening website
+2022-10-12 20:18:31,407 - driving_validation - INFO - 1234 solving captcha
+2022-10-12 20:18:31,629 - driving_validation - INFO - 1234 0 captcha result : ckpb3
+2022-10-12 20:18:32,840 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-12 20:18:33,347 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000018288C9BBC0>)
+2022-10-13 10:27:50,142 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:27:50,146 - driving_validation - INFO - request : {'dl_no': 'MZ0820130004685', 'dob': '06-09-1993', 'txnid': '1234'}
+2022-10-13 10:27:50,149 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:27:57,610 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:27:58,031 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:27:58,343 - driving_validation - INFO - 1234 0 captcha result : 8eekp
+2022-10-13 10:28:00,173 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 10:28:10,895 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 10:28:53,182 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:28:53,183 - driving_validation - INFO - request : {'dl_no': 'MZ0620050003128', 'dob': '17-01-1984', 'txnid': '1234'}
+2022-10-13 10:28:53,184 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:28:56,736 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:28:58,145 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:28:59,619 - driving_validation - INFO - 1234 0 captcha result : mxyx4
+2022-10-13 10:29:03,045 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 10:29:19,641 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 10:29:56,874 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:29:56,875 - driving_validation - INFO - request : {'dl_no': 'MZ0120100058854', 'dob': '16-06-1982', 'txnid': '1234'}
+2022-10-13 10:29:56,876 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:30:00,117 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:30:00,523 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:30:00,805 - driving_validation - INFO - 1234 0 captcha result : dxf8e
+2022-10-13 10:30:02,598 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 10:30:13,415 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 10:31:09,306 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:31:09,325 - driving_validation - INFO - request : {'dl_no': 'MH2420180004512', 'dob': '31-03-1992', 'txnid': '1234'}
+2022-10-13 10:31:09,336 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:31:23,361 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:31:25,949 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:31:28,148 - driving_validation - INFO - 1234 0 captcha result : 3ybbg
+2022-10-13 10:31:31,358 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 10:31:48,092 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 10:32:42,936 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:32:42,942 - driving_validation - INFO - request : {'dl_no': 'DL0420110149646', 'dob': '09-02-1976', 'txnid': '1234'}
+2022-10-13 10:32:42,946 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:32:56,089 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:32:58,729 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:33:00,312 - driving_validation - INFO - 1234 0 captcha result : m4n4k
+2022-10-13 10:33:02,892 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 10:33:06,675 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893FD100>)
+2022-10-13 10:33:17,312 - driving_validation - INFO - hit request dl validation
+2022-10-13 10:33:17,316 - driving_validation - INFO - request : {'dl_no': 'DL0420110149646', 'dob': '09-02-1976', 'txnid': '1234'}
+2022-10-13 10:33:17,319 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 10:33:30,504 - driving_validation - INFO - 1234 - opening website
+2022-10-13 10:33:32,906 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 10:33:35,413 - driving_validation - INFO - 1234 0 captcha result : 4bdr3
+2022-10-13 10:33:38,406 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 10:33:42,203 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000182893A1900>)
+2022-10-13 14:31:28,628 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:31:28,630 - driving_validation - INFO - request : {'dl_no': 'DL0420110149646', 'dob': '09-02-1976', 'txnid': '1234'}
+2022-10-13 14:31:28,648 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:31:35,032 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:31:35,541 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:31:36,206 - driving_validation - INFO - 1234 0 captcha result : enp65
+2022-10-13 14:31:40,826 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 14:31:41,722 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000021478985A80>)
+2022-10-13 14:32:59,524 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:32:59,526 - driving_validation - INFO - request : {'dl_no': 'HP5120150049771', 'dob': '08-12-1973', 'txnid': '1234'}
+2022-10-13 14:32:59,527 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:33:04,129 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:33:04,575 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:33:04,958 - driving_validation - INFO - 1234 0 captcha result : xxe5d
+2022-10-13 14:33:16,195 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x00F71ED3+2236115]', '\tOrdinal0 [0x00F092F1+1807089]', '\tOrdinal0 [0x00E166FD+812797]', '\tOrdinal0 [0x00E455DF+1005023]', '\tOrdinal0 [0x00E457CB+1005515]', '\tOrdinal0 [0x00E77632+1209906]', '\tOrdinal0 [0x00E61AD4+1120980]', '\tOrdinal0 [0x00E759E2+1202658]', '\tOrdinal0 [0x00E618A6+1120422]', '\tOrdinal0 [0x00E3A73D+960317]', '\tOrdinal0 [0x00E3B71F+964383]', '\tGetHandleVerifier [0x0121E7E2+2743074]', '\tGetHandleVerifier [0x012108D4+2685972]', '\tGetHandleVerifier [0x01002BAA+532202]', '\tGetHandleVerifier [0x01001990+527568]', '\tOrdinal0 [0x00F1080C+1837068]', '\tOrdinal0 [0x00F14CD8+1854680]', '\tOrdinal0 [0x00F14DC5+1854917]', '\tOrdinal0 [0x00F1ED64+1895780]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002140141A240>)
+2022-10-13 14:33:22,599 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:33:22,600 - driving_validation - INFO - request : {'dl_no': 'HP5120150049771', 'dob': '08-12-1973', 'txnid': '1234'}
+2022-10-13 14:33:22,601 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:33:27,556 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:33:27,988 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:33:28,301 - driving_validation - INFO - 1234 0 captcha result : 2mckx
+2022-10-13 14:33:29,704 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 14:33:30,548 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000021401476840>)
+2022-10-13 14:34:36,338 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:34:36,339 - driving_validation - INFO - request : {'dl_no': 'MP11N-2021-0044205', 'dob': '01-02-1991', 'txnid': '1234'}
+2022-10-13 14:34:36,340 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:34:41,252 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:34:46,811 - driving_validation - INFO - 1234 => MP success transaction
+2022-10-13 14:36:23,338 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:36:23,341 - driving_validation - INFO - request : {'dl_no': 'DLNSS14281011', 'dob': '28-01-1983', 'txnid': '1234'}
+2022-10-13 14:36:23,342 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:36:28,315 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:36:28,779 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:36:29,174 - driving_validation - INFO - 1234 0 captcha result : mpd23
+2022-10-13 14:36:31,600 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:36:42,674 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:39:34,424 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:39:34,425 - driving_validation - INFO - request : {'dl_no': 'AS0120190007176', 'dob': '27-08-1990', 'txnid': '1234'}
+2022-10-13 14:39:34,426 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:39:38,897 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:39:39,414 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:39:39,798 - driving_validation - INFO - 1234 0 captcha result : hbea2
+2022-10-13 14:39:51,013 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x00F71ED3+2236115]', '\tOrdinal0 [0x00F092F1+1807089]', '\tOrdinal0 [0x00E166FD+812797]', '\tOrdinal0 [0x00E455DF+1005023]', '\tOrdinal0 [0x00E457CB+1005515]', '\tOrdinal0 [0x00E77632+1209906]', '\tOrdinal0 [0x00E61AD4+1120980]', '\tOrdinal0 [0x00E759E2+1202658]', '\tOrdinal0 [0x00E618A6+1120422]', '\tOrdinal0 [0x00E3A73D+960317]', '\tOrdinal0 [0x00E3B71F+964383]', '\tGetHandleVerifier [0x0121E7E2+2743074]', '\tGetHandleVerifier [0x012108D4+2685972]', '\tGetHandleVerifier [0x01002BAA+532202]', '\tGetHandleVerifier [0x01001990+527568]', '\tOrdinal0 [0x00F1080C+1837068]', '\tOrdinal0 [0x00F14CD8+1854680]', '\tOrdinal0 [0x00F14DC5+1854917]', '\tOrdinal0 [0x00F1ED64+1895780]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x0000021401483E40>)
+2022-10-13 14:39:56,585 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:39:56,587 - driving_validation - INFO - request : {'dl_no': 'AS0120190007176', 'dob': '27-08-1990', 'txnid': '1234'}
+2022-10-13 14:39:56,588 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:40:01,136 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:40:01,658 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:40:02,120 - driving_validation - INFO - 1234 0 captcha result : 42dae.
+2022-10-13 14:40:04,056 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:40:15,383 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:41:31,372 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:41:31,373 - driving_validation - INFO - request : {'dl_no': 'AR0420170008992', 'dob': '19-08-1998', 'txnid': '1234'}
+2022-10-13 14:41:31,374 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:41:36,675 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:41:37,092 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:41:37,406 - driving_validation - INFO - 1234 0 captcha result : hgrx5
+2022-10-13 14:41:38,769 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:41:50,217 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:44:09,501 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:44:09,503 - driving_validation - INFO - request : {'dl_no': 'CG0420110016690', 'dob': '26-05-1967', 'txnid': '1234'}
+2022-10-13 14:44:09,505 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:44:14,458 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:44:14,886 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:44:15,289 - driving_validation - INFO - 1234 0 captcha result : 3yc36
+2022-10-13 14:44:17,248 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:44:28,412 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:45:40,454 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:45:40,456 - driving_validation - INFO - request : {'dl_no': 'GA0319991567768', 'dob': '13-08-1979', 'txnid': '1234'}
+2022-10-13 14:45:40,457 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:45:44,507 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:45:44,910 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:45:45,310 - driving_validation - INFO - 1234 0 captcha result : dn88w
+2022-10-13 14:45:47,140 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:45:58,195 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:47:28,773 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:47:28,773 - driving_validation - INFO - request : {'dl_no': 'GJ1220100022019', 'dob': '17-07-1991', 'txnid': '1234'}
+2022-10-13 14:47:28,773 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:47:33,370 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:47:33,821 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:47:34,186 - driving_validation - INFO - 1234 0 captcha result : e5ecb.
+2022-10-13 14:47:36,127 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:47:47,534 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:49:14,298 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:49:14,299 - driving_validation - INFO - request : {'dl_no': 'HR0120190001182', 'dob': '01-11-1994', 'txnid': '1234'}
+2022-10-13 14:49:14,300 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:49:18,449 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:49:18,892 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:49:19,325 - driving_validation - INFO - 1234 0 captcha result : bnbwe
+2022-10-13 14:49:21,272 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:49:32,661 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:51:57,792 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:51:57,793 - driving_validation - INFO - request : {'dl_no': 'JH0620190002806', 'dob': '26-01-1990', 'txnid': '1234'}
+2022-10-13 14:51:57,794 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:52:02,156 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:52:02,664 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:52:03,092 - driving_validation - INFO - 1234 0 captcha result : gy7d8
+2022-10-13 14:52:04,997 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:52:16,404 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:53:10,358 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:53:10,360 - driving_validation - INFO - request : {'dl_no': 'JH1020130082538', 'dob': '15-08-1991', 'txnid': '1234'}
+2022-10-13 14:53:10,361 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:53:14,794 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:53:15,278 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:53:15,677 - driving_validation - INFO - 1234 0 captcha result : 2r615
+2022-10-13 14:53:26,936 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x00F71ED3+2236115]', '\tOrdinal0 [0x00F092F1+1807089]', '\tOrdinal0 [0x00E166FD+812797]', '\tOrdinal0 [0x00E455DF+1005023]', '\tOrdinal0 [0x00E457CB+1005515]', '\tOrdinal0 [0x00E77632+1209906]', '\tOrdinal0 [0x00E61AD4+1120980]', '\tOrdinal0 [0x00E759E2+1202658]', '\tOrdinal0 [0x00E618A6+1120422]', '\tOrdinal0 [0x00E3A73D+960317]', '\tOrdinal0 [0x00E3B71F+964383]', '\tGetHandleVerifier [0x0121E7E2+2743074]', '\tGetHandleVerifier [0x012108D4+2685972]', '\tGetHandleVerifier [0x01002BAA+532202]', '\tGetHandleVerifier [0x01001990+527568]', '\tOrdinal0 [0x00F1080C+1837068]', '\tOrdinal0 [0x00F14CD8+1854680]', '\tOrdinal0 [0x00F14DC5+1854917]', '\tOrdinal0 [0x00F1ED64+1895780]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x000002147899DC00>)
+2022-10-13 14:53:33,096 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:53:33,097 - driving_validation - INFO - request : {'dl_no': 'JH1020130082538', 'dob': '15-08-1991', 'txnid': '1234'}
+2022-10-13 14:53:33,098 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:53:36,964 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:53:37,402 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:53:37,800 - driving_validation - INFO - 1234 0 captcha result : eh7bd
+2022-10-13 14:53:39,182 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 14:53:39,939 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000214010F91C0>)
+2022-10-13 14:53:44,314 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:53:44,315 - driving_validation - INFO - request : {'dl_no': 'JH1020130082538', 'dob': '15-08-1991', 'txnid': '1234'}
+2022-10-13 14:53:44,316 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:53:48,093 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:53:48,470 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:53:48,698 - driving_validation - INFO - 1234 0 captcha result : nkxab.
+2022-10-13 14:53:49,978 - driving_validation - INFO - 1234 No. of data tables found : 6
+2022-10-13 14:53:50,830 - driving_validation - ERROR - global error parivahan : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000021401483A00>)
+2022-10-13 14:55:40,741 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:55:40,743 - driving_validation - INFO - request : {'dl_no': 'KA0320110001740', 'dob': '21-12-1989', 'txnid': '1234'}
+2022-10-13 14:55:40,744 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 14:55:45,193 - driving_validation - INFO - 1234 - opening website
+2022-10-13 14:55:45,677 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 14:55:46,181 - driving_validation - INFO - 1234 0 captcha result : 42873
+2022-10-13 14:55:47,586 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 14:55:58,803 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-13 14:57:47,394 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:57:47,395 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 14:59:33,295 - driving_validation - INFO - hit request dl validation
+2022-10-13 14:59:33,297 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 15:03:39,249 - driving_validation - INFO - hit request dl validation
+2022-10-13 15:03:39,250 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 15:03:40,428 - driving_validation - INFO - hit request dl validation
+2022-10-13 15:03:40,430 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 15:03:41,229 - driving_validation - INFO - hit request dl validation
+2022-10-13 15:03:41,231 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 15:03:42,067 - driving_validation - INFO - hit request dl validation
+2022-10-13 15:03:42,068 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 15:03:43,586 - driving_validation - INFO - hit request dl validation
+2022-10-13 15:03:43,587 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 18:35:47,900 - driving_validation - INFO - hit request dl validation
+2022-10-13 18:35:47,902 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 18:36:05,591 - driving_validation - INFO - hit request dl validation
+2022-10-13 18:36:05,593 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 18:36:06,039 - driving_validation - INFO - hit request dl validation
+2022-10-13 18:36:06,041 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 18:36:07,220 - driving_validation - INFO - hit request dl validation
+2022-10-13 18:36:07,223 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 19:11:09,451 - driving_validation - INFO - hit request dl validation
+2022-10-13 19:11:09,453 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-13 19:11:09,460 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-13 19:11:13,807 - driving_validation - INFO - 1234 - opening website
+2022-10-13 19:11:14,160 - driving_validation - INFO - 1234 solving captcha
+2022-10-13 19:11:14,476 - driving_validation - INFO - 1234 0 captcha result : ya7fb
+2022-10-13 19:11:16,271 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-13 19:11:27,140 - driving_validation - INFO - 1234 parivahan success transaction
+2022-10-14 11:04:11,184 - driving_validation - INFO - hit request dl validation
+2022-10-14 11:04:11,186 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-14 11:04:11,198 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-14 11:04:24,136 - driving_validation - INFO - 1234 - opening website
+2022-10-14 11:04:24,587 - driving_validation - INFO - 1234 solving captcha
+2022-10-14 11:04:25,059 - driving_validation - INFO - 1234 0 captcha result : h3aed.
+2022-10-14 11:04:36,499 - driving_validation - ERROR - global error parivahan : (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, ['Backtrace:', '\tOrdinal0 [0x00F91ED3+2236115]', '\tOrdinal0 [0x00F292F1+1807089]', '\tOrdinal0 [0x00E366FD+812797]', '\tOrdinal0 [0x00E655DF+1005023]', '\tOrdinal0 [0x00E657CB+1005515]', '\tOrdinal0 [0x00E97632+1209906]', '\tOrdinal0 [0x00E81AD4+1120980]', '\tOrdinal0 [0x00E959E2+1202658]', '\tOrdinal0 [0x00E818A6+1120422]', '\tOrdinal0 [0x00E5A73D+960317]', '\tOrdinal0 [0x00E5B71F+964383]', '\tGetHandleVerifier [0x0123E7E2+2743074]', '\tGetHandleVerifier [0x012308D4+2685972]', '\tGetHandleVerifier [0x01022BAA+532202]', '\tGetHandleVerifier [0x01021990+527568]', '\tOrdinal0 [0x00F3080C+1837068]', '\tOrdinal0 [0x00F34CD8+1854680]', '\tOrdinal0 [0x00F34DC5+1854917]', '\tOrdinal0 [0x00F3ED64+1895780]', '\tBaseThreadInitThunk [0x76AC6739+25]', '\tRtlGetFullPathName_UEx [0x77DF8FD2+1218]', '\tRtlGetFullPathName_UEx [0x77DF8F9D+1165]', '']), <traceback object at 0x00000283C5FEFB40>)
+2022-10-14 11:04:41,185 - driving_validation - INFO - hit request dl validation
+2022-10-14 11:04:41,188 - driving_validation - INFO - request : {'dl_no': '4918492002', 'dob': '14-04-1983', 'txnid': '1234'}
+2022-10-14 11:04:41,193 - driving_validation - INFO - 1234 - intializing chrome
+2022-10-14 11:04:47,736 - driving_validation - INFO - 1234 - opening website
+2022-10-14 11:04:48,239 - driving_validation - INFO - 1234 solving captcha
+2022-10-14 11:04:48,588 - driving_validation - INFO - 1234 0 captcha result : h8b6x
+2022-10-14 11:04:50,486 - driving_validation - INFO - 1234 No. of data tables found : 7
+2022-10-14 11:05:01,803 - driving_validation - INFO - 1234 parivahan success transaction
